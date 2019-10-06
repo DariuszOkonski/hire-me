@@ -1,0 +1,105 @@
+.contact {
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(backgrounds/IMG-20181212-WA0007.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.contact h2 {
+  color: white;
+}
+
+.contact h2::after {
+  width: 130px;
+}
+
+.contact .wrap {
+  padding: 20px;
+  width: 100%;
+  max-width: 920px;
+  height: 70vh;
+  margin-left: auto;
+  margin-right: auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
+
+.contact {
+  color: white;
+  font-weight: 100;
+}
+
+.contact .name {
+  font-size: 16px;
+}
+
+.contact .name p span {
+  font-size: 20px;
+  color: #d63031;
+  font-weight: 500;
+}
+
+.contact .adress a {
+  text-decoration: none;
+  color: white;
+}
+
+.contact .adress i {
+  margin-right: 5px;
+  color: #3b5999;
+}
+
+.contact .adress a:hover {
+  color: #3b5999;
+}
+
+.contact .phone i {
+  margin-right: 5px;
+  color: #d63031;
+}
+
+/* media ===================================================== */
+@media (min-width: 768px) and (orientation: portrait) {
+  .contact .wrap {
+    font-size: 35px;
+  }
+
+  .contact .name {
+    font-size: 35px;
+  }
+
+  .contact .name p span {
+    font-size: 55px;
+  }
+}
+
+@media (orientation: landscape) {
+  .contact .wrap {
+    padding-top: 40px;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+}
+
+@media (min-width: 1024px) and (orientation: landscape) {
+  .contact .wrap {
+    font-size: 20px;
+  }
+
+  .contact .name {
+    font-size: 25px;
+  }
+
+  .contact .name p span {
+    font-size: 35px;
+  }
+
+  .contact h2::after {
+    width: 190px;
+  }
+}

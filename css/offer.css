@@ -1,0 +1,217 @@
+.offer {
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(backgrounds/IMG-20181212-WA0009.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.offer h2 {
+  color: white;
+}
+
+.offer h2::after {
+  width: 110px;
+}
+
+.offer .content {
+  padding: 10px;
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  /* background-color: white; */
+  padding: 30px 10px;
+}
+
+.offer .content ul {
+  width: 100%;
+  /* background-color: #3b5999; */
+  text-align: center;
+  list-style: none;
+}
+
+.offer .content ul li {
+  margin: 10px 0;
+}
+
+.offer .content ul li a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  background-color: #E67E22;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 300;
+  padding: 5px 15px;
+  margin-right: 10px;
+  border-radius: 25px;
+}
+
+.offer .promotion {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 300;
+  margin: 10px 0;
+  padding: 0 5px;
+
+}
+
+.offer .promotion span {
+  color: #d63031;
+  text-transform: uppercase;
+  font-size: 16px
+}
+
+.offer .promotion i {
+  margin-right: 5px;
+  color: #3b5999;
+}
+
+.offer .promotion a {
+  text-decoration: none;
+  color: white;
+}
+
+.offer .promotion a:hover {
+  color: #3b5999;
+}
+
+/* media portrait================================================== */
+@media (min-width: 360px) and (orientation: portrait) {
+
+  .offer .content {
+    padding: 30px 20px;
+  }
+
+  .offer .promotion span {
+    font-size: 20px;
+    font-weight: 300;
+  }
+
+  .offer .promotion {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 411px) and (orientation: portrait) {
+  .offer .content {
+    padding: 30px 60px;
+  }
+}
+
+@media (min-width: 768px) and (orientation: portrait) {
+
+  .offer .content {
+    padding: 30px 100px;
+  }
+
+  .offer .content ul li {
+    margin: 15px 0;
+  }
+
+  .offer .content ul li a {
+    font-size: 24px;
+    padding: 15px 0;
+  }
+
+  .offer .promotion span {
+    font-size: 28px;
+    font-weight: 300;
+  }
+
+  .offer .promotion {
+    font-size: 26px;
+  }
+}
+
+@media (min-width: 1024px) and (orientation: portrait) {
+  .offer .content {
+    padding: 30px 220px;
+  }
+}
+
+/* media landscape============================================================= */
+@media(orientation: landscape) {
+  .offer .content {
+    width: 100%;
+    padding: 30px 120px;
+
+    display: flex;
+    justify-content: center;
+  }
+
+  .offer .content ul li a {
+    font-size: 12px;
+  }
+
+}
+
+@media (min-width: 568px) and (orientation: landscape) {
+
+  .offer .content {
+    padding: 30px 170px;
+  }
+
+  .offer .promotion span {
+    font-size: 16px;
+    font-weight: 300;
+  }
+
+  .offer .promotion {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 640px) and (orientation: landscape) {
+
+  .offer .promotion span {
+    font-size: 18px;
+    font-weight: 300;
+  }
+
+  .offer .promotion {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 731px) and (orientation: landscape) {
+
+  .offer .content {
+    padding: 30px 240px;
+  }
+}
+
+@media (min-width: 812px) and (orientation: landscape) {
+
+  .offer .content {
+    padding: 30px 280px;
+  }
+}
+
+@media (min-width: 1024px) and (orientation: landscape) {
+
+  .offer .content ul li a {
+    font-size: 22px;
+    padding: 10px 0;
+    transition: .2s;
+  }
+
+  .offer .content ul li a:hover {
+    background-color: #b05d14;
+  }
+
+  .offer .promotion span {
+    font-size: 28px;
+    font-weight: 300;
+  }
+
+  .offer .promotion {
+    font-size: 26px;
+  }
+
+  .offer h2::after {
+    width: 165px;
+  }
+}

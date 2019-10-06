@@ -1,0 +1,114 @@
+.events {
+  position: relative;
+  min-height: 100vh;
+}
+
+.event {
+  position: relative;
+  min-height: 35vh;
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  color: #5F5555;
+}
+
+.events h2::after {
+  width: 190px;
+}
+
+.event h3 {
+  text-align: center;
+  font-size: 12px;
+}
+
+.event p {
+  font-size: 10px;
+  text-align: justify;
+  padding: 5px;
+}
+
+.event .images {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 60%;
+  width: 100%;
+  overflow: hidden;
+
+  background-color: black;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  justify-content: space-around;
+}
+
+.event a {
+  position: relative;
+  overflow: hidden;
+  opacity: 0.3;
+  transition: .5s;
+
+  flex-basis: 25%;
+  height: 50%;
+  background-color: black;
+}
+
+.event img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 100%;
+  min-height: 100%;
+}
+
+@media(orientation: landscape) {
+  header .nav ul a {
+    font-size: 16px;
+  }
+
+  .event a:hover {
+    opacity: 1;
+  }
+
+  .event .images {
+    margin-top: 5px;
+    flex-wrap: nowrap;
+  }
+
+  .event a {
+    position: relative;
+    overflow: hidden;
+    opacity: 0.45;
+    transition: .5s;
+
+    flex-basis: 25%;
+    height: 100%;
+    background-color: black;
+  }
+}
+
+@media(min-width: 1024px) and (orientation: landscape) {
+  .event {
+    min-height: 25vh;
+  }
+
+  .event h3 {
+    font-size: 20px;
+    margin-top: 30px;
+  }
+
+  .event p {
+    font-size: 16px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 10px;
+  }
+
+  .events h2::after {
+    width: 280px;
+  }
+}
