@@ -1,3 +1,28 @@
+#btn-event {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  display: block;
+  text-decoration: none;
+  color: white;
+  background-color: #E67E22;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 300;
+  padding: 5px 15px;
+  margin-right: 10px;
+  border-radius: 25px;
+  z-index: 9999;
+  transition: .2s;
+}
+
+@media (min-width: 1024px) and (orientation: landscape) {
+  #btn-event:hover {
+    background-color: #b05d14;
+  }
+}
+
+
 .events {
   position: relative;
   min-height: 100vh;
@@ -65,6 +90,30 @@
   min-height: 100%;
 }
 
+.btn-event-arcaive {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn-event-arcaive a {
+  margin-top: 10px;
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background-color: #E67E22;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 300;
+  padding: 5px 15px;
+  margin-right: 10px;
+  border-radius: 25px;
+  transition: .2s;
+}
+
+.btn-event-arcaive a:hover {
+  background-color: #b05d14;
+}
+
 @media(orientation: landscape) {
   header .nav ul a {
     font-size: 16px;
@@ -110,5 +159,11 @@
 
   .events h2::after {
     width: 280px;
+  }
+
+  .btn-event-arcaive a {
+    margin-top: 20px;
+    font-size: 22px;
+    padding: 10px 20px;
   }
 }
