@@ -12,7 +12,7 @@
 }
 
 .offer h2::after {
-  width: 110px;
+  width: 80px;
 }
 
 .offer .content {
@@ -212,6 +212,6 @@
   }
 
   .offer h2::after {
-    width: 165px;
+    width: 80px;
   }
 }

@@ -36,7 +36,7 @@
 }
 
 .offer-hire-mazda h2::after {
-  width: 280px;
+  width: 80px;
 }
 
 .offer-hire-mazda .content {
@@ -186,7 +186,7 @@
   }
 
   .offer-hire-mazda h2::after {
-    width: 410px;
+    width: 80px;
   }
 
   .offer-hire-mazda .variants h3 {
@@ -226,7 +226,7 @@
 }
 
 .gallery-mazda h2::after {
-  width: 140px;
+  width: 80px;
 }
 
 .gallery-mazda .images {
@@ -282,6 +282,6 @@
   }
 
   .gallery-mazda h2::after {
-    width: 200px;
+    width: 80px;
   }
 }

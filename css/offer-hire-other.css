@@ -35,7 +35,7 @@
 }
 
 .offer-hire-other h2::after {
-  width: 250px;
+  width: 80px;
 }
 
 .offer-hire-other .content {
@@ -108,7 +108,7 @@
 @media (min-width: 768px) and (orientation: portrait) {
 
   .offer-hire-other h2::after {
-    width: 500px;
+    width: 80px;
   }
 
   .offer-hire-other .variants h3 {
@@ -159,7 +159,7 @@
   }
 
   .offer-hire-other h2::after {
-    width: 500px;
+    width: 80px;
   }
 
   .offer-hire-other .variants {
@@ -238,7 +238,7 @@
   }
 
   .offer-hire-other h2::after {
-    width: 690px;
+    width: 80px;
   }
 
   .offer-hire-other .variants h3 {

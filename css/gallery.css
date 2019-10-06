@@ -7,7 +7,7 @@
 }
 
 .gallery h2::after {
-  width: 120px;
+  width: 80px;
 }
 
 .gallery .images {
@@ -59,6 +59,6 @@
   }
 
   .gallery h2::after {
-    width: 180px;
+    width: 80px;
   }
 }

@@ -34,7 +34,7 @@
 }
 
 .offer-hire-seat h2::after {
-  width: 280px;
+  width: 80px;
 }
 
 .offer-hire-seat .content {
@@ -184,7 +184,7 @@
   }
 
   .offer-hire-seat h2::after {
-    width: 410px;
+    width: 80px;
   }
 
   .offer-hire-seat .variants h3 {
@@ -224,7 +224,7 @@
 }
 
 .gallery-seat h2::after {
-  width: 140px;
+  width: 80px;
 }
 
 .gallery-seat .images {
@@ -280,6 +280,6 @@
   }
 
   .gallery-seat h2::after {
-    width: 200px;
+    width: 80px;
   }
 }

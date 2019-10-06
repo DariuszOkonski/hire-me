@@ -39,7 +39,12 @@
 }
 
 .events h2::after {
-  width: 190px;
+  width: 80px;
+}
+
+.events-header {
+  padding: 50px 0 10px;
+  font-size: 26px;
 }
 
 .event h3 {
@@ -158,12 +163,17 @@
   }
 
   .events h2::after {
-    width: 280px;
+    width: 80px;
   }
 
   .btn-event-arcaive a {
     margin-top: 20px;
     font-size: 22px;
     padding: 10px 20px;
+  }
+
+  .events-header {
+    padding: 20px 0 10px;
+    font-size: 40px;
   }
 }

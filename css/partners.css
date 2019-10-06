@@ -30,7 +30,7 @@
 }
 
 .partners h2::after {
-  width: 190px;
+  width: 80px;
 }
 
 .partner-small h3,
@@ -189,6 +189,6 @@
   }
 
   .partners h2::after {
-    width: 280px;
+    width: 80px;
   }
 }

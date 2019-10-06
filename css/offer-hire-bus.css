@@ -32,7 +32,7 @@
 }
 
 .offer-hire-bus h2::after {
-  width: 240px;
+  width: 80px;
 }
 
 .offer-hire-bus .content {
@@ -189,7 +189,7 @@
   }
 
   .offer-hire-bus h2::after {
-    width: 350px;
+    width: 80px;
   }
 
   .offer-hire-bus .variants h3 {
@@ -229,7 +229,7 @@
 }
 
 .gallery-bus h2::after {
-  width: 230px;
+  width: 80px;
 }
 
 .gallery-bus .images {
@@ -285,6 +285,6 @@
   }
 
   .gallery-bus h2::after {
-    width: 340px;
+    width: 80px;
   }
 }
