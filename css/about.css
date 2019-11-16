@@ -4,6 +4,7 @@
   background-color: white;
   color: #5F5555;
   margin-top: 100vh;
+  padding-bottom: 20px;
 }
 
 .about p,
@@ -22,6 +23,16 @@
   padding-left: 30px;
 }
 
+.about .video {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.about .video iframe {
+  width: 310px;
+  height: 170px;
+}
+
 /* media ========================================= */
 @media(min-width: 360px) {
 
@@ -32,6 +43,11 @@
   .about ul {
     font-size: 18px;
     padding-left: 40px;
+  }
+
+  .about .video iframe {
+    width: 350px;
+    height: 190px;
   }
 }
 
@@ -51,6 +67,13 @@
   .about ul {
     font-size: 26px;
     padding-left: 40px;
+  }
+}
+
+@media(min-width: 768px) {
+  .about .video iframe {
+    width: 560px;
+    height: 315px;
   }
 }
 
