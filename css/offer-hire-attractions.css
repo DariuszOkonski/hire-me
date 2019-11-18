@@ -11,6 +11,10 @@
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/love/07.jpg);
 }
 
+.offer-hire-attractions.box {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/box/01.jpg);
+}
+
 .offer-hire-attractions a {
   position: fixed;
   top: 10px;
