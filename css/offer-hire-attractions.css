@@ -16,7 +16,7 @@
 }
 
 .offer-hire-attractions.fotobus {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(backgrounds/IMG-20181212-WA0010.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/fotobus/02.jpeg);
 }
 
 .offer-hire-attractions a {
