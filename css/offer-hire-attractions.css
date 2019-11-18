@@ -15,6 +15,10 @@
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/box/01.jpg);
 }
 
+.offer-hire-attractions.fotobus {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(backgrounds/IMG-20181212-WA0010.jpg);
+}
+
 .offer-hire-attractions a {
   position: fixed;
   top: 10px;
