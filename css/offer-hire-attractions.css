@@ -19,6 +19,10 @@
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/fotobus/02.jpeg);
 }
 
+.offer-hire-attractions.wall {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/weddingwall/wedding.jpg);
+}
+
 .offer-hire-attractions a {
   position: fixed;
   top: 10px;
