@@ -136,7 +136,7 @@
   .event a {
     position: relative;
     overflow: hidden;
-    opacity: 0.45;
+    opacity: var(--GALLERY_PICTURE_OPACITY);
     transition: .5s;
 
     flex-basis: 25%;

@@ -4,7 +4,7 @@ header {
   left: 0;
   width: 100%;
   height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(backgrounds/IMG-20181212-WA0014.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, var(--BACKGROUND_OPACITY)), rgba(0, 0, 0, var(--BACKGROUND_OPACITY))), url(backgrounds/IMG-20181212-WA0014.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

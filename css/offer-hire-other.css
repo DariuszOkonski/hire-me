@@ -1,7 +1,7 @@
 .offer-hire-other {
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(backgrounds/IMG-20181212-WA0002.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, var(--BACKGROUND_OPACITY)), rgba(0, 0, 0, var(--BACKGROUND_OPACITY))), url(backgrounds/IMG-20181212-WA0002.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

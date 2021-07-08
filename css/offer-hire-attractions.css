@@ -8,19 +8,19 @@
 }
 
 .offer-hire-attractions.love {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/love/07.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, var(--BACKGROUND_OPACITY)), rgba(0, 0, 0, var(--BACKGROUND_OPACITY))), url(../img/attractions/love/07.jpg);
 }
 
 .offer-hire-attractions.box {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/box/01.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, var(--BACKGROUND_OPACITY)), rgba(0, 0, 0, var(--BACKGROUND_OPACITY))), url(../img/attractions/box/01.jpg);
 }
 
 .offer-hire-attractions.fotobus {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/fotobus/02.jpeg);
+  background-image: linear-gradient(rgba(0, 0, 0, var(--BACKGROUND_OPACITY)), rgba(0, 0, 0, var(--BACKGROUND_OPACITY))), url(../img/attractions/fotobus/02.jpeg);
 }
 
 .offer-hire-attractions.wall {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/attractions/weddingwall/wedding.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, var(--BACKGROUND_OPACITY)), rgba(0, 0, 0, var(--BACKGROUND_OPACITY))), url(../img/attractions/weddingwall/wedding.jpg);
 }
 
 .offer-hire-attractions a {
@@ -292,7 +292,7 @@
 .gallery-attractions a {
   position: relative;
   overflow: hidden;
-  opacity: 0.65;
+  opacity: var(--GALLERY_PICTURE_OPACITY);
   transition: .5s;
 
   flex-basis: 33.3333%;

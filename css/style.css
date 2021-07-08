@@ -1,5 +1,10 @@
 /* https://www.freefavicon.com */
 
+:root {
+  --BACKGROUND_OPACITY: 0.6;
+  --GALLERY_PICTURE_OPACITY: 0.65;
+}
+
 * {
   margin: 0;
   padding: 0;

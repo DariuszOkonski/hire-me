@@ -30,7 +30,7 @@
 .gallery a {
   position: relative;
   overflow: hidden;
-  opacity: 0.65;
+  opacity: var(--GALLERY_PICTURE_OPACITY);
   transition: .5s;
 
   flex-basis: 20%;
