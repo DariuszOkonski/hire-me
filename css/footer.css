@@ -4,7 +4,7 @@ footer {
   height: 50px;
 }
 
-footer p {
+footer p, footer p a {
   text-align: center;
   font-size: 10px;
   line-height: 50px;
