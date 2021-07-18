@@ -7,6 +7,10 @@
   background-attachment: fixed;
 }
 
+.offer-hire-attractions.photograph {
+  background-image: linear-gradient(rgba(0, 0, 0, var(--BACKGROUND_OPACITY)), rgba(0, 0, 0, var(--BACKGROUND_OPACITY))), url(../img/attractions/photograph/fotografdoslubu/4.jpg);
+}
+
 .offer-hire-attractions.love {
   background-image: linear-gradient(rgba(0, 0, 0, var(--BACKGROUND_OPACITY)), rgba(0, 0, 0, var(--BACKGROUND_OPACITY))), url(../img/attractions/love/07.jpg);
 }
