@@ -3,8 +3,6 @@ import data from './indexEventsJSON.js';
 const dataEvents = document.querySelector('[data-events]');
 
 for (const element of data) {
-    console.log(element)
-    
     let imagesAnchor = '';
     const images = element.images.forEach(image => {
         const imageA = `<a data-lightbox="${image.dataLightbox}" href="${image.href}"><img src="${image.src}" alt="miniatura"></a>`
@@ -26,5 +24,3 @@ for (const element of data) {
     `
     dataEvents.innerHTML += section;
 }
-
-console.log(data)
