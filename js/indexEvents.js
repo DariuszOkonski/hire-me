@@ -14,8 +14,7 @@ for (const element of data) {
     <section class="event">
             <h3>${element.h3}</h3>
         <p>
-            Ofertę przygotowano, voucher czekał na właściciela. Tak spędziliśmy czas na targach ślubnych w Scena Kulinarna
-            Art Restaurant w Bytomiu
+           ${element.p}
         </p>
         <div class="images">
             ${imagesAnchor}     
