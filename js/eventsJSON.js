@@ -1,5 +1,190 @@
 export default [
     {
+        "h3": "06.2021 ŚLUB",
+        "p": "Z wielkim utęsknieniem......Po długiej przerwie......Udało się zrealizować pierwszy ślub....A teraz czekamy na kolejne",
+        "images": [
+            {
+                "dataLightbox": "event-26",
+                "href": "img/events2021/archive/slub3-06-21/1.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/1.jpg"
+            },
+            {
+                "dataLightbox": "event-26",
+                "href": "img/events2021/archive/slub3-06-21/2.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/2.jpg"
+            },
+            {
+                "dataLightbox": "event-26",
+                "href": "img/events2021/archive/slub3-06-21/3.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/3.jpg"
+            },
+            {
+                "dataLightbox": "event-26",
+                "href": "img/events2021/archive/slub3-06-21/4.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/4.jpg"
+            },
+            {
+                "dataLightbox": "event-26",
+                "href": "img/events2021/archive/slub3-06-21/5.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/5.jpg"
+            },
+            {
+                "dataLightbox": "event-26",
+                "href": "img/events2021/archive/slub3-06-21/6.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/6.jpg"
+            },
+            {
+                "dataLightbox": "event-26",
+                "href": "img/events2021/archive/slub3-06-21/7.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/7.jpg"
+            },
+            {
+                "dataLightbox": "event-26",
+                "href": "img/events2021/archive/slub3-06-21/8.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/8.jpg"
+            },            
+        ]
+    },
+    {
+        "h3": "06.2021 ŚLUB",
+        "p": "Długo czekaliśmy na ten dzień...Późno ale już oficjalnie i głośno otwieramy SEZON NA WYNAJEM AUT DO ŚLUBU",
+        "images": [
+            {
+                "dataLightbox": "event-25",
+                "href": "img/events2021/archive/slub2-06-21/1.jpg",
+                "src": "img/events2021/archive/slub2-06-21/small/1.jpg"
+            },
+            {
+                "dataLightbox": "event-25",
+                "href": "img/events2021/archive/slub2-06-21/2.jpg",
+                "src": "img/events2021/archive/slub2-06-21/small/2.jpg"
+            },
+            {
+                "dataLightbox": "event-25",
+                "href": "img/events2021/archive/slub2-06-21/3.jpg",
+                "src": "img/events2021/archive/slub2-06-21/small/3.jpg"
+            },
+            {
+                "dataLightbox": "event-25",
+                "href": "img/events2021/archive/slub2-06-21/4.jpg",
+                "src": "img/events2021/archive/slub2-06-21/small/4.jpg"
+            },
+            {
+                "dataLightbox": "event-25",
+                "href": "img/events2021/archive/slub2-06-21/5.jpg",
+                "src": "img/events2021/archive/slub2-06-21/small/5.jpg"
+            }            
+        ]
+    },
+    {
+        "h3": "06.2021 ŚLUB",
+        "p": "Z wielkim utęsknieniem......Po długiej przerwie......Udało się zrealizować pierwszy ślub....A teraz czekamy na kolejne",
+        "images": [
+            {
+                "dataLightbox": "event-24",
+                "href": "img/events2021/archive/slub3-06-21/1.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/1.jpg"
+            },
+            {
+                "dataLightbox": "event-24",
+                "href": "img/events2021/archive/slub3-06-21/2.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/2.jpg"
+            },
+            {
+                "dataLightbox": "event-24",
+                "href": "img/events2021/archive/slub3-06-21/3.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/3.jpg"
+            },
+            {
+                "dataLightbox": "event-24",
+                "href": "img/events2021/archive/slub3-06-21/4.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/4.jpg"
+            },
+            {
+                "dataLightbox": "event-24",
+                "href": "img/events2021/archive/slub3-06-21/5.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/5.jpg"
+            },
+            {
+                "dataLightbox": "event-24",
+                "href": "img/events2021/archive/slub3-06-21/6.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/6.jpg"
+            },
+            {
+                "dataLightbox": "event-24",
+                "href": "img/events2021/archive/slub3-06-21/7.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/7.jpg"
+            },
+            {
+                "dataLightbox": "event-24",
+                "href": "img/events2021/archive/slub3-06-21/8.jpg",
+                "src": "img/events2021/archive/slub3-06-21/small/8.jpg"
+            },            
+        ]
+    },
+    {
+        "h3": "01.2021 ŚLUB",
+        "p": "I oto tym miłym akcentem otwieramy Sezon Slubny 2020 na Fiata. Pierwsze zlecenie w tym roku już wykonane",
+        "images": [
+            {
+                "dataLightbox": "event-23",
+                "href": "img/events2021/archive/slub-01-21/1.jpg",
+                "src": "img/events2021/archive/slub-01-21/small/1.jpg"
+            },
+            {
+                "dataLightbox": "event-23",
+                "href": "img/events2021/archive/slub-01-21/2.jpg",
+                "src": "img/events2021/archive/slub-01-21/small/2.jpg"
+            },
+            {
+                "dataLightbox": "event-23",
+                "href": "img/events2021/archive/slub-01-21/3.jpg",
+                "src": "img/events2021/archive/slub-01-21/small/3.jpg"
+            },
+            {
+                "dataLightbox": "event-23",
+                "href": "img/events2021/archive/slub-01-21/4.jpg",
+                "src": "img/events2021/archive/slub-01-21/small/4.jpg"
+            },
+            {
+                "dataLightbox": "event-23",
+                "href": "img/events2021/archive/slub-01-21/5.jpg",
+                "src": "img/events2021/archive/slub-01-21/small/5.jpg"
+            },
+            {
+                "dataLightbox": "event-23",
+                "href": "img/events2021/archive/slub-01-21/6.jpg",
+                "src": "img/events2021/archive/slub-01-21/small/6.jpg"
+            }            
+        ]
+    },
+    {
+        "h3": "01.2019 ŚLUB",
+        "p": "A to jedno z tych nieplanowanych wcześniej u nas ślubów. Grudzień 2019 - cudowna data na uroczystość. Młodej Parze dziękujemy za współpracę.",
+        "images": [
+            {
+                "dataLightbox": "event-22",
+                "href": "img/events2021/archive/slub-12-19/1.jpg",
+                "src": "img/events2021/archive/slub-12-19/small/1.jpg"
+            },
+            {
+                "dataLightbox": "event-22",
+                "href": "img/events2021/archive/slub-12-19/2.jpg",
+                "src": "img/events2021/archive/slub-12-19/small/2.jpg"
+            },
+            {
+                "dataLightbox": "event-22",
+                "href": "img/events2021/archive/slub-12-19/3.jpg",
+                "src": "img/events2021/archive/slub-12-19/small/3.jpg"
+            },
+            {
+                "dataLightbox": "event-22",
+                "href": "img/events2021/archive/slub-12-19/4.jpg",
+                "src": "img/events2021/archive/slub-12-19/small/4.jpg"
+            }            
+        ]
+    },
+    {
         "h3": "16.11.2019 TARGI ŚLUBNE",
         "p": "Ofertę przygotowano, voucher czekał na właściciela. Tak spędziliśmy czas na targach ślubnych w Scena Kulinarna Art Restaurant w Bytomiu",
         "images": [
