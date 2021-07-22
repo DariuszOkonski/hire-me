@@ -1,0 +1,9 @@
+.offer-hire-porsche {
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, var(--BACKGROUND_OPACITY)), rgba(0, 0, 0, var(--BACKGROUND_OPACITY))), url(../img/gallery/panamera/9.jpeg);
+    /* background-image: url(../img/gallery/mazda6/m08.jpg); */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
