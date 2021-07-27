@@ -1,52 +1,6 @@
 export default [
     {
         "h3": "06.2021 ŚLUB",
-        "p": "Z wielkim utęsknieniem......Po długiej przerwie......Udało się zrealizować pierwszy ślub....A teraz czekamy na kolejne",
-        "images": [
-            {
-                "dataLightbox": "event-26",
-                "href": "img/events2021/archive/slub3-06-21/1.jpg",
-                "src": "img/events2021/archive/slub3-06-21/small/1.jpg"
-            },
-            {
-                "dataLightbox": "event-26",
-                "href": "img/events2021/archive/slub3-06-21/2.jpg",
-                "src": "img/events2021/archive/slub3-06-21/small/2.jpg"
-            },
-            {
-                "dataLightbox": "event-26",
-                "href": "img/events2021/archive/slub3-06-21/3.jpg",
-                "src": "img/events2021/archive/slub3-06-21/small/3.jpg"
-            },
-            {
-                "dataLightbox": "event-26",
-                "href": "img/events2021/archive/slub3-06-21/4.jpg",
-                "src": "img/events2021/archive/slub3-06-21/small/4.jpg"
-            },
-            {
-                "dataLightbox": "event-26",
-                "href": "img/events2021/archive/slub3-06-21/5.jpg",
-                "src": "img/events2021/archive/slub3-06-21/small/5.jpg"
-            },
-            {
-                "dataLightbox": "event-26",
-                "href": "img/events2021/archive/slub3-06-21/6.jpg",
-                "src": "img/events2021/archive/slub3-06-21/small/6.jpg"
-            },
-            {
-                "dataLightbox": "event-26",
-                "href": "img/events2021/archive/slub3-06-21/7.jpg",
-                "src": "img/events2021/archive/slub3-06-21/small/7.jpg"
-            },
-            {
-                "dataLightbox": "event-26",
-                "href": "img/events2021/archive/slub3-06-21/8.jpg",
-                "src": "img/events2021/archive/slub3-06-21/small/8.jpg"
-            },            
-        ]
-    },
-    {
-        "h3": "06.2021 ŚLUB",
         "p": "Długo czekaliśmy na ten dzień...Późno ale już oficjalnie i głośno otwieramy SEZON NA WYNAJEM AUT DO ŚLUBU",
         "images": [
             {
