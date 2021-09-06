@@ -88,35 +88,69 @@ export default [
         "src": "img/gallery/renaultTrafic2016/rt07-small.jpg"
     },
     {
-        "href": "img/gallery/renaultTrafic2016/rt08.jpg",
-        "src": "img/gallery/renaultTrafic2016/rt08-small.jpg"
+        "href": "img/gallery/maluch-2/1.jpeg",
+        "src": "img/gallery/maluch-2/small/1.jpeg"
     },
     {
-        "href": "img/gallery/maluch/maluch-01.jpg",
-        "src": "img/gallery/maluch/maluch-01-small.jpg"
+        "href": "img/gallery/maluch-2/2.jpeg",
+        "src": "img/gallery/maluch-2/small/2.jpeg"
     },
     {
-        "href": "img/gallery/maluch/maluch-02.jpg",
-        "src": "img/gallery/maluch/maluch-02-small.jpg"
+        "href": "img/gallery/maluch-2/3.jpeg",
+        "src": "img/gallery/maluch-2/small/3.jpeg"
     },
     {
-        "href": "img/gallery/maluch/maluch-03.jpg",
-        "src": "img/gallery/maluch/maluch-03-small.jpg"
+        "href": "img/gallery/maluch-2/4.jpeg",
+        "src": "img/gallery/maluch-2/small/4.jpeg"
     },
     {
-        "href": "img/gallery/maluch/maluch-04.jpg",
-        "src": "img/gallery/maluch/maluch-04-small.jpg"
+        "href": "img/gallery/maluch-2/5.jpeg",
+        "src": "img/gallery/maluch-2/small/5.jpeg"
     },
     {
-        "href": "img/gallery/maluch/maluch-05.jpg",
-        "src": "img/gallery/maluch/maluch-05-small.jpg"
+        "href": "img/gallery/maluch-2/7.jpeg",
+        "src": "img/gallery/maluch-2/small/7.jpeg"
     },
     {
-        "href": "img/gallery/maluch/maluch-06.jpg",
-        "src": "img/gallery/maluch/maluch-06-small.jpg"
+        "href": "img/gallery/maluch-2/8.jpeg",
+        "src": "img/gallery/maluch-2/small/8.jpeg"
     },
     {
-        "href": "img/gallery/maluch/maluch-07.jpg",
-        "src": "img/gallery/maluch/maluch-07-small.jpg"
-    }    
+        "href": "img/gallery/maluch-2/9.jpeg",
+        "src": "img/gallery/maluch-2/small/9.jpeg"
+    },
+    
 ]
+
+// {
+//     "href": "img/gallery/renaultTrafic2016/rt08.jpg",
+//     "src": "img/gallery/renaultTrafic2016/rt08-small.jpg"
+// },
+// {
+//     "href": "img/gallery/maluch/maluch-01.jpg",
+//     "src": "img/gallery/maluch/maluch-01-small.jpg"
+// },
+// {
+//     "href": "img/gallery/maluch/maluch-02.jpg",
+//     "src": "img/gallery/maluch/maluch-02-small.jpg"
+// },
+// {
+//     "href": "img/gallery/maluch/maluch-03.jpg",
+//     "src": "img/gallery/maluch/maluch-03-small.jpg"
+// },
+// {
+//     "href": "img/gallery/maluch/maluch-04.jpg",
+//     "src": "img/gallery/maluch/maluch-04-small.jpg"
+// },
+// {
+//     "href": "img/gallery/maluch/maluch-05.jpg",
+//     "src": "img/gallery/maluch/maluch-05-small.jpg"
+// },
+// {
+//     "href": "img/gallery/maluch/maluch-06.jpg",
+//     "src": "img/gallery/maluch/maluch-06-small.jpg"
+// },
+// {
+//     "href": "img/gallery/maluch/maluch-07.jpg",
+//     "src": "img/gallery/maluch/maluch-07-small.jpg"
+// }    
