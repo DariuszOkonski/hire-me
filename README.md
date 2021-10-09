@@ -1,7 +1,7 @@
 ![image](main.png)
 
-# hire-me
+# wypozyczmnie
 
-WebPage for company hire me
+WebPage for company wypozyczmnie
 
 https://www.wypozyczmnie.net
