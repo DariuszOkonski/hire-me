@@ -1,7 +1,13 @@
 ![image](main.png)
+# Wypozyczmnie
+Static WebPage created for company wypozyczmnie
 
-# wypozyczmnie
+## Author
+- Dariusz Okonski
 
-WebPage for company wypozyczmnie
+## Technologies
+- HTML/CSS
+- JavaScript
+- LightBox
 
 https://www.wypozyczmnie.net
