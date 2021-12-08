@@ -86,11 +86,11 @@ export default [
     {
         "href": "img/gallery/renaultTrafic2016/rt07.jpg",
         "src": "img/gallery/renaultTrafic2016/rt07-small.jpg"
-    },
+    }, 
     {
-        "href": "img/gallery/maluch-2/1.jpeg",
-        "src": "img/gallery/maluch-2/small/1.jpeg"
-    },
+        "href": "img/gallery/renaultTrafic2016/rt08.jpg",
+        "src": "img/gallery/renaultTrafic2016/rt08-small.jpg"
+    },    
     {
         "href": "img/gallery/maluch-2/2.jpeg",
         "src": "img/gallery/maluch-2/small/2.jpeg"
