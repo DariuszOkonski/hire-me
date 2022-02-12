@@ -293,6 +293,20 @@
   justify-content: space-around;
 }
 
+.gallery-attractions .images.images--singular {
+  background-color: #fff;
+} 
+
+.gallery-attractions .images.images--singular a::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 100%;
+  background-color: black;
+}
+
 .gallery-attractions a {
   position: relative;
   overflow: hidden;
@@ -302,6 +316,14 @@
   flex-basis: 33.3333%;
   height: 50%;
   background-color: black;
+}
+
+.gallery-attractions .images--singular a {
+  opacity: 1;
+}
+
+.gallery-attractions .images--singular a:hover {
+  opacity: var(--GALLERY_PICTURE_OPACITY)
 }
 
 
